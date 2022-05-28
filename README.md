@@ -7,7 +7,6 @@ This roles configures my preferred settings for working with the shell on Linux 
 - Install fzf-tab
 - Install fzf-autosuggestions
 - Install fast-syntax-highlightning
-- Install zsh-history-substring-search
 - Install zsh-completions
 - Install bash-my-aws
 - Install Powerlevel10k

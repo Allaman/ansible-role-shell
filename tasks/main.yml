@@ -51,12 +51,6 @@
     repo: https://github.com/zdharma-continuum/fast-syntax-highlighting
     dest: ~/.shell/fast-syntax-Highlighting
 
-- name: Install zsh-history-substring-search
-  git:
-    clone: true
-    repo: https://github.com/zsh-users/zsh-history-substring-search
-    dest: ~/.shell/zsh-history-substring-search
-
 - name: Install zsh-completions
   git:
     clone: true
