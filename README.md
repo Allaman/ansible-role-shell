@@ -3,12 +3,9 @@
 This roles configures my preferred settings for working with the shell on Linux based systems.
 
 - Install kubectl-aliases
-- Install fzf
-- Install fzf-tab
-- Install fzf-autosuggestions
+- Install zsh-autosuggestions
 - Install fast-syntax-highlightning
 - Install zsh-completions
-- Install bash-my-aws
 - Install Powerlevel10k
 - Install Tmux tpm
 
