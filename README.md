@@ -1,5 +1,7 @@
 # ansible-role-shell
 
+**OBSOLET -> merged intohttps://github.com/Allaman/ansible-role-dotfiles**
+
 This roles configures my preferred settings for working with the shell on Linux based systems.
 
 - Install kubectl-aliases
